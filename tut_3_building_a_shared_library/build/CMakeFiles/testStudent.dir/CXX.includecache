@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nknight/Works/git/cmake_tutorial/tut_3_building_a_shared_library/src/Student.cpp
+iostream
+-
+Student.h
+/home/nknight/Works/git/cmake_tutorial/tut_3_building_a_shared_library/src/Student.h
+

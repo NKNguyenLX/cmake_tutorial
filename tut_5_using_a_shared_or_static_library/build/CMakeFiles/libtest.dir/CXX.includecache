@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nknight/Works/git/cmake_tutorial/tut_4_building_a_static_library/include/Student.h
+string
+-
+
+/home/nknight/Works/git/cmake_tutorial/tut_5_using_a_shared_or_static_library/libtest.cpp
+Student.h
+/home/nknight/Works/git/cmake_tutorial/tut_5_using_a_shared_or_static_library/Student.h
+

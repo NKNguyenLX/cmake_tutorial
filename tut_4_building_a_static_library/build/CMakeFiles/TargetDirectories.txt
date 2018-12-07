@@ -1,0 +1,7 @@
+/home/nknight/Works/git/cmake_tutorial/tut_4_building_a_static_library/build/CMakeFiles/install.dir
+/home/nknight/Works/git/cmake_tutorial/tut_4_building_a_static_library/build/CMakeFiles/list_install_components.dir
+/home/nknight/Works/git/cmake_tutorial/tut_4_building_a_static_library/build/CMakeFiles/rebuild_cache.dir
+/home/nknight/Works/git/cmake_tutorial/tut_4_building_a_static_library/build/CMakeFiles/edit_cache.dir
+/home/nknight/Works/git/cmake_tutorial/tut_4_building_a_static_library/build/CMakeFiles/testStudent.dir
+/home/nknight/Works/git/cmake_tutorial/tut_4_building_a_static_library/build/CMakeFiles/install/strip.dir
+/home/nknight/Works/git/cmake_tutorial/tut_4_building_a_static_library/build/CMakeFiles/install/local.dir

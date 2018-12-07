@@ -1,0 +1,3 @@
+/home/nknight/Works/git/cmake_tutorial/tut_1/build/CMakeFiles/edit_cache.dir
+/home/nknight/Works/git/cmake_tutorial/tut_1/build/CMakeFiles/rebuild_cache.dir
+/home/nknight/Works/git/cmake_tutorial/tut_1/build/CMakeFiles/hello.dir
